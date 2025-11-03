@@ -30,9 +30,48 @@ Algumas de suas vantagens incluem:
 | **Link** | `[texto](url)` | [GitHub](https://github.com) |
 | **Imagem** | `![alt](url)` | ![Logo Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg) |
 | **Código** | `` `código` `` | `print("Olá, mundo!")` |
-| **Bloco de código** | \`\`\`linguagem ... \`\`\` | ver exemplo abaixo |
+| **Bloco de código** | ```linguagem ... ``` | ver exemplo abaixo |
 
 ### Exemplo:
 ```python
 def saudacao():
     print("Olá, mundo!")
+```
+
+---
+
+## 🚀 Onde o Markdown é usado?
+
+- **Documentação de projetos (README.md)**
+- **Wikis e blogs técnicos**
+- **Anotações pessoais**
+- **Formatos de publicação científica (como Jupyter Notebooks)**
+- **Mensagens e comentários em fóruns e repositórios**
+
+---
+
+## 🧠 Curiosidade
+
+O nome “Markdown” vem da ideia de ser o oposto de “Markup” (como o HTML).  
+Ou seja, é uma forma **reduzida e simplificada** de marcação de texto.
+
+---
+
+## 🤖 Prompt para IA
+
+> **Prompt sugerido para ChatGPT ou outra IA:**
+> 
+> “Crie um resumo em Markdown explicando o que é Markdown, seus principais usos e exemplos de formatação. Inclua uma tabela com as sintaxes básicas.”
+
+---
+
+## 📚 Conclusão
+
+O **Markdown** é uma ferramenta poderosa e essencial para quem trabalha com desenvolvimento, documentação ou criação de conteúdo técnico.  
+Simples, versátil e universal, ele se tornou o **padrão de formatação** na web moderna.
+
+---
+
+### ✍️ Autor
+**M. Mizuno**  
+[https://github.com/matmizuno](https://github.com/matmizuno)
